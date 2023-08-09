@@ -5,7 +5,7 @@
 .menu-title{
 	height: 600px;
 	width: 300px;
-	background: rgba(151, 23, 0, 1.0);
+	background: rgba(55, 6, 146, 0.8);
 	max-height: 100%;
 	font-size: 30px;
 	text-align: center;
@@ -20,7 +20,11 @@
 }
 .content-container{
 	margin: 0 auto;
-	border-bottom: 7px solid rgba(151, 23, 0, 1.0);
+	border-bottom: 7px solid rgba(146, 6, 111, 1.0);
+}
+body{
+background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614332558_41-p-raznotsvetnii-fon-dlya-avatarki-58.jpg);
+height: 100%;
 }
 /**.main-logo{
 
@@ -38,7 +42,7 @@ p{
 	text-align: center;
 }
 .title-item{
-	color:rgba(151, 23, 0, 1.0);
+	color:rgba(146, 6, 111, 1.0);
 }
 .content__profile-item{
     display: inline;
@@ -88,7 +92,7 @@ margin: 20 auto;
 	justify-content: centr;
 	max-width: 100%;
 	height: 100px;
-	background: rgba(151, 23, 0, 1.0);
+	background: rgba(146, 6, 111, 1.0);
 	color: white;
 	margin: 0 50;
 }
@@ -150,7 +154,7 @@ margin: 20 auto;
 .rotate-text{
 	position: absolute;
 	transform: rotate(90deg);
-	color:rgb(151, 23, 0);
+	color:rgb(146, 6, 111);
     right: 120px;
     top: 200px;
     font-size: 20px;
@@ -199,8 +203,8 @@ margin: 20 auto;
 }
 
 input{
-	background-color: white;
-    border-bottom:2px solid rgb(151, 23, 0);
+	background-color: rgba(0, 0, 0, 0);
+    border-bottom:2px solid rgb(79, 0, 143);
     display: block;
     width: 100%;
     margin-bottom: 20px;
